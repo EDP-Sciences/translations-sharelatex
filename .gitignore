@@ -39,4 +39,4 @@ data/*
 *.swp
 .DS_Store
 
-
+.idea
