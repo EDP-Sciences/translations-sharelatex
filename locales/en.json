@@ -23,7 +23,6 @@
   "last_modified": "Last Modified",
   "no_projects": "No projects",
   "welcome_to_sl": "Welcome to ShareLaTeX!",
-  "welcome_to_ws": "Welcome to EDP Writing Studio!",
   "new_to_latex_look_at": "New to LaTeX? Start by having a look at our",
   "or": "or",
   "or_create_project_left": "or create your first project on the left.",
@@ -551,5 +550,11 @@
   "unlink_github": "Unlink your GitHub account",
   "link_to_github": "Link to your GitHub account",
   "github_integration": "GitHub Integration",
-  "github_is_premium": "GitHub sync is a premium feature"
+  "github_is_premium": "GitHub sync is a premium feature",
+  "welcome_to_ws": "Welcome to EDP Writing Studio!",
+  "log_in_orcid": "Log In with ORCID",
+  "orcid_description": "ORCID is an independent non-profit effort to provide an open registry of unique researcher identifiers and open services to link research activities and organizations to these identifiers. Learn more at <a href=\"https://orcid.org/\" target=\"_orcid\">orcid.org</a>.",
+  "orcid_error": "The ORCID website returned the error __error__",
+  "orcid_information": "ORCID Information",
+  "your_orcid": "Your ORCID iD"
 }
