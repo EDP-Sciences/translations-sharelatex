@@ -561,5 +561,8 @@
   "orcid_registration_enabled": "You can still register for an account by login with your ORCID iD.",
   "already_have_ws_account": "Already have a Scientific Writing Studio account?",
   "direct_login": "Direct Login...",
-  "orcid_login": "ORCID Login..."
+  "orcid_login": "ORCID Login...",
+  "object_display": "Highlight the stellar objects in your source",
+  "enable": "Enable",
+  "disable": "Disable"
 }
