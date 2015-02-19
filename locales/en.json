@@ -551,10 +551,15 @@
   "link_to_github": "Link to your GitHub account",
   "github_integration": "GitHub Integration",
   "github_is_premium": "GitHub sync is a premium feature",
-  "welcome_to_ws": "Welcome to EDP Writing Studio!",
+  "welcome_to_ws": "Welcome to the Scientific Writing Studio by EDP Sciences!",
   "log_in_orcid": "Log In with ORCID",
   "orcid_description": "ORCID is an independent non-profit effort to provide an open registry of unique researcher identifiers and open services to link research activities and organizations to these identifiers. Learn more at <a href=\"https://orcid.org/\" target=\"_orcid\">orcid.org</a>.",
   "orcid_error": "The ORCID website returned the error __error__",
   "orcid_information": "ORCID Information",
-  "your_orcid": "Your ORCID iD"
+  "your_orcid": "Your ORCID iD",
+  "registration_disabled": "Registration is disabled for the moment",
+  "orcid_registration_enabled": "You can still register for an account by login with your ORCID iD.",
+  "already_have_ws_account": "Already have a Scientific Writing Studio account?",
+  "direct_login": "Direct Login...",
+  "orcid_login": "ORCID Login..."
 }
