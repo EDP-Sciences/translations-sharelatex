@@ -565,5 +565,5 @@
   "object_display": "Highlight the stellar objects in your source",
   "enable": "Enable",
   "disable": "Disable",
-  "login_description": "Once you have an account in the Writing Studio, you can update your preferences to setup an email address and a password. You can then use this form to login directly, without using ORCID.",
+  "login_description": "In order to create an account in the Writing Studio, you have to connect once with your ORCID identifier. When you have an account, you can update your preferences to setup an email address and a password. You can then use this form to login directly, without using ORCID.",
 }
