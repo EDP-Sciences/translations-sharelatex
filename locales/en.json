@@ -512,7 +512,7 @@
   "about_us": "About Us",
   "loading_recent_github_commits": "Loading recent commits",
   "no_new_commits_in_github": "No new commits in GitHub since last merge.",
-  "dropbox_sync_description": "Keep your ShareLaTeX projects in sync with your Dropbox. Changes in ShareLaTeX are automatically sent to your Dropbox, and the other way around.",
+  "dropbox_sync_description": "Keep your projects in sync with your Dropbox. Changes in the Writing Studio are automatically sent to your Dropbox, and the other way around.",
   "github_sync_description": "With GitHub Sync you can link your ShareLaTeX projects to GitHub repositories. Create new commits from ShareLaTeX, and merge with commits made offline or in GitHub.",
   "github_import_description": "With GitHub Sync you can import your GitHub Repositories into ShareLaTeX. Create new commits from ShareLaTeX, and merge with commits made offline or in GitHub.",
   "link_to_github_description": "You need to authorise ShareLaTeX to access your GitHub account to allow us to sync your projects.",
