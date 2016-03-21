@@ -202,7 +202,7 @@
   "this_project_is_public": "This project is public and can be edited by anyone with the URL.",
   "make_private": "Make Private",
   "can_edit": "Can Edit",
-  "share_with_your_collabs": "Share with your collaborators",
+  "share_with_your_collabs": "Share with your collaborators. If you use an email address, make sure that it is the email address assigned to the ORCID account of your collaborator.",
   "share": "Share",
   "need_to_upgrade_for_more_collabs": "You need to upgrade your account to add more collaborators",
   "make_project_public": "Make project public",
@@ -633,5 +633,14 @@
   "enable": "Enable",
   "disable": "Disable",
   "login_description": "In order to create an account in the Writing Studio, you have to connect once with your ORCID identifier. When you have an account, you can update your preferences to setup an email address and a password. You can then use this form to login directly, without using ORCID.",
-  "enter_email_or_orcid_placeholder": "Enter ORCID or email address..."
+  "enter_email_or_orcid_placeholder": "Enter ORCID or email address...",
+  "submission_target": "Submit to...",
+  "submission_none": "none",
+  "submission_aa": "Astronomy & Astrophysics journal",
+  "submission_status": "Submission status",
+  "submission_submit": "Submit this article",
+  "submission_pending": "In progress",
+  "submission_ready": "Submission ready",
+  "submission_finalize": "Finalize",
+  "submission_error": "Error"
 }
