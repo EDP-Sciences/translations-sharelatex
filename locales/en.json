@@ -642,5 +642,7 @@
   "submission_pending": "In progress",
   "submission_ready": "Submission ready",
   "submission_finalize": "Finalize",
-  "submission_error": "Error"
+  "submission_error": "Error",
+  "submission_cancelled": "Submission cancelled",
+  "submission_congratulations": "Congratulations ! Your article has been sent to the submission system. You can finalize your submission there by pressing the corresponding button below."
 }
