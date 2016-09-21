@@ -634,7 +634,7 @@
   "disable": "Disable",
   "login_description": "In order to create an account in the Writing Studio, you have to connect once with your ORCID identifier. When you have an account, you can update your preferences to setup an email address and a password. You can then use this form to login directly, without using ORCID.",
   "enter_email_or_orcid_placeholder": "Enter ORCID or email address...",
-  "submission_target": "Submit to...",
+  "submission_target": "To be submitted to...",
   "submission_none": "none",
   "submission_aa": "Astronomy & Astrophysics journal",
   "submission_status": "Submission status",
