@@ -676,5 +676,6 @@
   "ads_bibtex_name_description": "Please enter the name of the bibtex file to generate from your library",
   "library_import_in_progress": "Library import in progress. Please be patient...",
   "library_import_successful": "Library import completed successfully.",
-  "import_this_library": "Import the selected library in your project"
+  "import_this_library": "Import the selected library in your project",
+  "ads_forget_token": "Unlink ADS library service"
 }
